@@ -4,6 +4,9 @@ ggrep bulb forest/filescan_00.1
 ggrep beed forest/filescan_00.1
 ggrep blas forest/filescan_00.1
 ggrep butt forest/filescan_00.1
+ggrep izard forest/filescan_00.2
+ggrep mander forest/filescan_00.2
+ggrep meleon forest/filescan_00.2
 
 
 ### b)
