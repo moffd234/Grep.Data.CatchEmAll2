@@ -7,6 +7,10 @@ ggrep butt forest/filescan_00.1
 ggrep izard forest/filescan_00.2
 ggrep mander forest/filescan_00.2
 ggrep meleon forest/filescan_00.2
+ggrep ivys forest/filescan_00.3
+ggrep jigg forest/filescan_00.3
+ggrep meow forest/filescan_00.3
+ggrep pika forest/filescan_00.3
 
 
 ### b)
