@@ -11,25 +11,47 @@ ggrep ivys forest/filescan_00.3
 ggrep jigg forest/filescan_00.3
 ggrep meow forest/filescan_00.3
 ggrep pika forest/filescan_00.3
+ggrep psyd forest/filescan_00.4
+ggrep squi forest/filescan_00.4
+ggrep venu forest/filescan_00.4
+ggrep wart forest/filescan_00.4
 
 
 ### b)
 
 
+ggrep bulb forest/filescan_00.1 > captured/bulbasaur.txt
+ggrep beed forest/filescan_00.1 > captured/beedrill.txt
+ggrep blas forest/filescan_00.1 > captured/blastoise.txt
+ggrep butt forest/filescan_00.1 > captured/butterfree.txt
+ggrep izard forest/filescan_00.2 > captured/charizard.txt
+ggrep mander forest/filescan_00.2 > captured/charmander.txt
+ggrep meleon forest/filescan_00.2 > captured/charmeleon.txt
+ggrep ivys forest/filescan_00.3 > captured/ivysaur.txt
+ggrep jigg forest/filescan_00.3 > captured/jigglypuff.txt
+ggrep meow forest/filescan_00.3 > captured/meowth.txt
+ggrep pika forest/filescan_00.3 > captured/pikachu.txt
+ggrep psyd forest/filescan_00.4 > captured/psyduck.txt
+ggrep squi forest/filescan_00.4 > captured/squirtle.txt
+ggrep venu forest/filescan_00.4 > captured/venasaur.txt
+ggrep wart forest/filescan_00.4 > captured/warortle.txt
 
 ### c)
-
-
-
-
-
-
-
-
-
-
-
-
+filescan_00.1
+filescan_00.1
+filescan_00.1
+filescan_00.1
+filescan_00.2
+filescan_00.2
+filescan_00.2
+filescan_00.3
+filescan_00.3
+filescan_00.3
+filescan_00.3
+filescan_00.4
+filescan_00.4
+filescan_00.4
+filescan_00.4
 
 # Part 2
 ### a)
