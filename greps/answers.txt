@@ -1,7 +1,9 @@
 # Part 1
 ### a)
-
-
+ggrep bulb forest/filescan_00.1
+ggrep beed forest/filescan_00.1
+ggrep blas forest/filescan_00.1
+ggrep butt forest/filescan_00.1
 
 
 ### b)
