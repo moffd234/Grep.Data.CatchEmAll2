@@ -55,14 +55,12 @@ filescan_00.4
 
 # Part 2
 ### a)
-
-
-
-
-
+15
+grep -c 'captured' greps/answers.txt
 
 ### b)
-
+Beedrill, Charizard, and Pikachu all have 40 lines
+ggrep -c ^ captured/*.txt
 
 
 
